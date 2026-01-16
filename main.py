@@ -76,4 +76,3 @@ async def cmd_nuke(ctx):
 
 # ===== Run bot =====
 bot.run(token, log_handler=handler, log_level=logging.DEBUG)
-# Added for safe commit tracking
